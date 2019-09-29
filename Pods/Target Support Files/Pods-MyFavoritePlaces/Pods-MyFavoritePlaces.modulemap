@@ -1,0 +1,6 @@
+framework module Pods_MyFavoritePlaces {
+  umbrella header "Pods-MyFavoritePlaces-umbrella.h"
+
+  export *
+  module * { export * }
+}
